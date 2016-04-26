@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="btn_addalarm">添加闹钟</string>
+    <string name="play_sound">Play sound</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+    <string name="lap">lap</string>
+</resources>
